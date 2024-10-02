@@ -1,0 +1,168 @@
+{    "dataArray":[
+    {
+    "id": 1,
+    "name": "Sodium Chloride",
+    "Vendor": "ABC Chemicals",
+    "Density": 2.16,
+    "Viscosity": "N/A",
+    "Packaging": "Bag",
+    "packSize": 50.0,
+    "Unit": "kg",
+    "Quantity": 200
+    },
+    {
+    "id": 2,
+    "name": "Ethanol",
+    "Vendor": "XYZ Labs",
+    "Density": 0.789,
+    "Viscosity": "1.2 cP",
+    "Packaging": "Drum",
+    "packSize": 200,
+    "Unit": "L",
+    "Quantity": 500
+    },
+    {
+    "id": 3,
+    "name": "Sulfuric Acid",
+    "Vendor": "ChemPro Ltd.",
+    "Density": 1.84,
+    "Viscosity": "26.7 cP",
+    "Packaging": "IBC Tank",
+    "packSize": 1000,
+    "Unit": "L",
+    "Quantity": 1500
+    },
+    {
+    "id": 4,
+    "name": "Acetone",
+    "Vendor": "Industrial Chemicals Co.",
+    "Density": 0.784,
+    "Viscosity": "0.32 cP",
+    "Packaging": "Steel Drum",
+    "packSize": 180,
+    "Unit": "L",
+    "Quantity": 360
+    },
+    {
+    "id": 5,
+    "name": "Hydrochloric Acid",
+    "Vendor": "PureChem Supplies",
+    "Density": 1.19,
+    "Viscosity": "1.9 cP",
+    "Packaging": "Plastic Drum",
+    "packSize": 100,
+    "Unit": "L",
+    "Quantity": 300
+    },
+    {
+    "id": 6,
+    "name": "Methanol",
+    "Vendor": "LabCorp",
+    "Density": 0.791,
+    "Viscosity": "0.59 cP",
+    "Packaging": "Glass Bottle",
+    "packSize": 5,
+    "Unit": "L",
+    "Quantity": 20
+    },
+    {
+    "id": 7,
+    "name": "Calcium Carbonate",
+    "Vendor": "ABC Chemicals",
+    "Density": 2.71,
+    "Viscosity": "N/A",
+    "Packaging": "Bag",
+    "packSize": 25,
+    "Unit": "kg",
+    "Quantity": 100
+    },
+    {
+    "id": 8,
+    "name": "Isopropyl Alcohol",
+    "Vendor": "CleanChem Co.",
+    "Density": 0.786,
+    "Viscosity": "2.1 cP",
+    "Packaging": "Plastic Drum",
+    "packSize": 200,
+    "Unit": "L",
+    "Quantity": 400
+    },
+    {
+    "id": 9,
+    "name": "Nitric Acid",
+    "Vendor": "ChemPro Ltd.",
+    "Density": 1.51,
+    "Viscosity": "1.55 cP",
+    "Packaging": "IBC Tank",
+    "packSize": 1000,
+    "Unit": "L",
+    "Quantity": 1200
+    },
+    {
+    "id": 10,
+    "name": "Sodium Hydroxide",
+    "Vendor": "Industrial Chemicals Co.",
+    "Density": 2.13,
+    "Viscosity": "N/A",
+    "Packaging": "Bag",
+    "packSize": 25,
+    "Unit": "kg",
+    "Quantity": 250
+    },
+    {
+    "id": 11,
+    "name": "Toluene",
+    "Vendor": "XYZ Labs",
+    "Density": 0.867,
+    "Viscosity": "0.59 cP",
+    "Packaging": "Steel Drum",
+    "packSize": 180,
+    "Unit": "L",
+    "Quantity": 360
+    },
+    {
+    "id": 12,
+    "name": "Phosphoric Acid",
+    "Vendor": "CleanChem Co.",
+    "Density": 1.88,
+    "Viscosity": "15.1 cP",
+    "Packaging": "Plastic Drum",
+    "packSize": 200,
+    "Unit": "L",
+    "Quantity": 600
+    },
+    {
+    "id": 13,
+    "name": "Potassium Chloride",
+    "Vendor": "LabCorp",
+    "Density": 1.98,
+    "Viscosity": "N/A",
+    "Packaging": "Bag",
+    "packSize": 50,
+    "Unit": "kg",
+    "Quantity": 150
+    },
+    {
+    "id": 14,
+    "name": "Glycerol",
+    "Vendor": "ABC Chemicals",
+    "Density": 1.26,
+    "Viscosity": "945 cP",
+    "Packaging": "Plastic Drum",
+    "packSize": 200,
+    "Unit": "L",
+    "Quantity": 300
+    },
+    {
+    "id": 15,
+    "name": "Ammonium Nitrate",
+    "Vendor": "PureChem Supplies",
+    "Density": 1.72,
+    "Viscosity": "N/A",
+    "Packaging": "Bag",
+    "packSize": 25,
+    "Unit": "kg",
+    "Quantity": 500
+    }
+    ]
+}
